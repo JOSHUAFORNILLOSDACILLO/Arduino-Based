@@ -49,13 +49,13 @@ void setup() {
   lcd.init();
   lcd.backlight();
   lcd.setCursor(0, 0);
-  lcd.print("ARDUINO-BASED");
+  lcd.print("HAHAHAHA");
   delay(2000);
   lcd.clear ();
   
-  lcd.print ("Gas Actuator");
+  lcd.print ("Swerte kadaw");
   lcd.setCursor(3,1);
-  lcd.print("System (AGAS)");
+  lcd.print("akon la ine");
   delay(5000);
   
   // Turn off all LEDs
